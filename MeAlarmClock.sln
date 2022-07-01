@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeAlarmClock.Android", "MeAlarmClock.Android\MeAlarmClock.Android.csproj", "{EB154B17-E918-4600-A357-0FEAC45018DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeAlarmClock", "MeAlarmClock\MeAlarmClock.csproj", "{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB154B17-E918-4600-A357-0FEAC45018DC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11ED2B0B-8A0D-4C7E-8E2F-6F7F3E17FBEF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9663C52A-C7B1-4A0F-B1DF-F37E70E5CC0E}
+	EndGlobalSection
+EndGlobal
